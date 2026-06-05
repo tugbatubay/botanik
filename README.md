@@ -19,7 +19,7 @@ Kayıt ve giriş sistemi, bitki ekleme, listeleme, düzenleme ve silme özellikl
 5. http://localhost/botanik adresine git
 
 ## Ekran Görüntüleri
-![ana sayfa](C:\xampp\htdocs\botanik\ekran\anasayfa.png)
-![bitki listesi](C:\xampp\htdocs\botanik\ekran\bitkiliste.png)
+![ana sayfa](anasayfa.png)
+![bitki listesi](bitkiliste.png)
 ## Tanıtım Videosu
 https://youtu.be/kzLTyQzrbgY?si=hgs-aCsHe7ax2YqH
